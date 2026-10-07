@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article and the dataset."
+title: "PPG signal quality and morphology across skin pigmentation levels: finger phantom analysis code"
+authors:
+  - family-names: Osorio-Sanchez
+    given-names: Laura
+    affiliation: "Research Centre for Biomedical Engineering, City St George's, University of London"
+  - family-names: May
+    given-names: James M.
+    affiliation: "Research Centre for Biomedical Engineering, City St George's, University of London"
+  - family-names: Kyriacou
+    given-names: Panicos
+    affiliation: "Research Centre for Biomedical Engineering, City St George's, University of London"
+license: MIT
+repository-code: https://github.com/Lauraosorios/ppg-pigmentation-phantom-quality-morphology
+references:
+  - type: dataset
+    title: "PPG and pressure recordings from a multilayer vascular finger phantom with pale, medium and dark skin tone layers"
+    doi: 10.5281/zenodo.23208189
+    authors:
+      - family-names: Osorio-Sanchez
+        given-names: Laura
+      - family-names: May
+        given-names: James M.
+      - family-names: Kyriacou
+        given-names: Panicos

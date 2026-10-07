@@ -1,0 +1,16 @@
+skin,channel,total_pulses
+P,Reflectance RED,12628
+P,Reflectance IR,12627
+P,Reflectance GREEN,12627
+P,Transmittance RED,12629
+P,Transmittance IR,12627
+M,Reflectance RED,12633
+M,Reflectance IR,12633
+M,Reflectance GREEN,12632
+M,Transmittance RED,12632
+M,Transmittance IR,12632
+D,Reflectance RED,12632
+D,Reflectance IR,12631
+D,Reflectance GREEN,12630
+D,Transmittance RED,12612
+D,Transmittance IR,12631
