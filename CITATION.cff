@@ -12,6 +12,7 @@ authors:
     given-names: Panicos
     affiliation: "Research Centre for Biomedical Engineering, City St George's, University of London"
 license: MIT
+doi: 10.5281/zenodo.23210570
 repository-code: https://github.com/Lauraosorios/ppg-pigmentation-phantom-quality-morphology
 references:
   - type: dataset

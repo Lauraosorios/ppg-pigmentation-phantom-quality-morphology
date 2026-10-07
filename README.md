@@ -1,5 +1,7 @@
 # PPG signal quality and morphology across skin pigmentation levels: finger phantom analysis code
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23210570.svg)](https://doi.org/10.5281/zenodo.23210570)
+
 Code for the article *"Photoplethysmography (PPG) signal quality and morphology features across skin pigmentation levels using a multilayer vascular finger phantom"*, by L. Osorio-Sanchez, J. M. May and P. Kyriacou (City St George's, University of London).
 
 The code takes the 81 phantom PPG recordings (3 skin tones × 3 heart rates × 3 target flows × 3 replicates) through the full pipeline:
@@ -91,4 +93,9 @@ Code: MIT (see `LICENSE`). Data: CC BY 4.0 (see the Zenodo record).
 
 ## Citation
 
-Please cite the article (and the Zenodo dataset) when using this code. See `CITATION.cff`.
+Please cite the article and, as appropriate:
+
+- **Code:** https://doi.org/10.5281/zenodo.23210570 (all versions; v1.0.0 is 10.5281/zenodo.23210571)
+- **Data:** https://doi.org/10.5281/zenodo.23208189
+
+See also `CITATION.cff`.
